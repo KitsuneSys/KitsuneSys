@@ -1,7 +1,7 @@
 # Hi, I'm Jaime 👋
 
 🎓 Data Engineering & Artificial Intelligence Student  
-💻 Python | Machine Learning | Cybersecurity | Systems  
+💻 Python | Machine Learning | Computer Vision | Systems & AI 
 
 ---
 
